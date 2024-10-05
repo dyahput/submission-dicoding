@@ -1,10 +1,9 @@
-Setup Environment:
-1. Save data yang diperlukan
-2. Install semua library di requirement.txt
-3. pip install streamlit
-4. Deploy file .py
-5. Run dengan perintah: streamlit run (lokasi data)
-# Dicoding Collection Dashboard ✨
+# Guidline ✨
 
-## Setup Environment - Anaconda
-pip install -r requirements.txt
+## Setup Environment
+1. python -m venv myenv
+2. myenv\Scripts\activate
+3. pip install -r requirements.txt
+4. Deploy dashboard.py
+5. pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+6. Run dengan perintah: streamlit run path/ lokasi dashboard.py (streamlit run C:\submission\dashboard.py)
