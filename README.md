@@ -4,3 +4,7 @@ Setup Environment:
 3. pip install streamlit
 4. Deploy file .py
 5. Run dengan perintah: streamlit run (lokasi data)
+# Dicoding Collection Dashboard ✨
+
+## Setup Environment - Anaconda
+pip install -r requirements.txt
